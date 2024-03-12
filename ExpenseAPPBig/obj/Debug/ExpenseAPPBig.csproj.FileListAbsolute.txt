@@ -1,0 +1,10 @@
+C:\Users\Bharath S\source\repos\ExpenseAPPBig\bin\Debug\ExpenseAPPBig.exe.config
+C:\Users\Bharath S\source\repos\ExpenseAPPBig\bin\Debug\ExpenseAPPBig.exe
+C:\Users\Bharath S\source\repos\ExpenseAPPBig\bin\Debug\ExpenseAPPBig.pdb
+C:\Users\Bharath S\source\repos\ExpenseAPPBig\obj\Debug\ExpenseAPPBig.csproj.AssemblyReference.cache
+C:\Users\Bharath S\source\repos\ExpenseAPPBig\obj\Debug\ExpenseAPPBig.Form1.resources
+C:\Users\Bharath S\source\repos\ExpenseAPPBig\obj\Debug\ExpenseAPPBig.Properties.Resources.resources
+C:\Users\Bharath S\source\repos\ExpenseAPPBig\obj\Debug\ExpenseAPPBig.csproj.GenerateResource.cache
+C:\Users\Bharath S\source\repos\ExpenseAPPBig\obj\Debug\ExpenseAPPBig.csproj.CoreCompileInputs.cache
+C:\Users\Bharath S\source\repos\ExpenseAPPBig\obj\Debug\ExpenseAPPBig.exe
+C:\Users\Bharath S\source\repos\ExpenseAPPBig\obj\Debug\ExpenseAPPBig.pdb
